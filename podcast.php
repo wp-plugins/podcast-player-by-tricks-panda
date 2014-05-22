@@ -1,5 +1,6 @@
 <?php
-/* Plugin Name: Podcast Player By Tricks Panda
+/*
+Plugin Name: Podcast Player
 Plugin URI: http://www.trickspanda.com
 Description: Easily add a podcast player to your WordPress website with shortcodes and a user-friendly button.
 Version: 1.0
