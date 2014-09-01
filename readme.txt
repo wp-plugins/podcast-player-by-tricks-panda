@@ -3,7 +3,7 @@ Plugin URI: http://www.trickspanda.com
 Description: Easily add a podcast player to your WordPress website with shortcodes and a user-friendly button.
 Version: 1.0
 Requires at least: 2.5
-Tested up to: 3.9
+Tested up to: 4.0
 Contributors: hardeepasrani
 Author URI: http://www.hardeepasrani.com
 Tags: podcast, button, shortcode, player, mp3
